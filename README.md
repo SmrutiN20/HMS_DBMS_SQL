@@ -10,4 +10,4 @@
 * Calculation of average hospitalization days.
 
 ### These queries efficiently handle large datasets using techniques such as Common Table Expressions (CTEs), JOIN operations, and window functions for data aggregation and analysis.
-"# HMS_DBMS_SQL" 
+
